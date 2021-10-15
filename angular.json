@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "appia"
+  "defaultProject": "appia",
+  "cli": {
+    "analytics": "5a8f5496-9168-44c4-af1b-908c43a07c25"
+  }
 }
